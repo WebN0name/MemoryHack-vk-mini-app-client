@@ -13,7 +13,7 @@
     "@urapywka/vkui": "^0.1.56",
     "@vkontakte/icons": "^1.20.1",
     "@vkontakte/vkui-connect": "^1.5.4",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
     "vue-advanced-cropper": "^0.16.1",
